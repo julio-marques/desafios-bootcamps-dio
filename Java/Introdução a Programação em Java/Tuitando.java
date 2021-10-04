@@ -8,7 +8,7 @@ package desafio_Java;
  * 
  * Entrada
  *
- * A entrada é uma linha de texto T (1 <= |T| >= 500).
+ * A entrada é uma linha de texto T (1 <= |T| <= 500).
  *
  * Saída
  *

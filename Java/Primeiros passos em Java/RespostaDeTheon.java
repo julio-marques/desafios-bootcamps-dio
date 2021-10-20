@@ -1,28 +1,30 @@
 package com.dio;
 
 /*
- * Ramsay: "(...) você vence se conseguir adivinhar quem eu sou e por que
- * estou torturando você."
+ * A Resposta de Theon
+ *
+ * Ramsay: "(...) vocÃª vence se conseguir adivinhar quem eu sou e por que
+ * estou torturando vocÃª."
  * 
- * Theon deve pensar rápido e adivinhar quem é seu algoz! Entretanto, 
- * Ramsay já decidiu o que ele irá fazer depois que Theon der sua resposta.
+ * Theon deve pensar rÃ¡pido e adivinhar quem Ã© seu algoz! Entretanto, 
+ * Ramsay jÃ¡ decidiu o que ele irÃ¡ fazer depois que Theon der sua resposta.
  *
- * Theon pode dizer que seu algoz é alguma dentre N pessoas. Considere que 
- * as pessoas são numeradas de 1 a N. Se Theon responder que seu algoz é a 
- * pessoa i,Ramsay irá atingi-lo Ti vezes.
+ * Theon pode dizer que seu algoz Ã© alguma dentre N pessoas. Considere que 
+ * as pessoas sÃ£o numeradas de 1 a N. Se Theon responder que seu algoz Ã© a 
+ * pessoa i,Ramsay irÃ¡ atingi-lo Ti vezes.
  *
- * Sua tarefa é ajudar Theon a determinar qual deve ser sua resposta de 
- * forma a minimizar o número de vezes que ele será atingido.
+ * Sua tarefa Ã© ajudar Theon a determinar qual deve ser sua resposta de 
+ * forma a minimizar o nÃºmero de vezes que ele serÃ¡ atingido.
  * 
  * Entrada
  * 
- * A primeira linha contém um inteiro N (1 <= N <= 100). A segunda linha 
- * contém N inteiros T1, T2, ..., TN (0 <= Ti <= 20).
+ * A primeira linha contÃ©m um inteiro N (1 <= N <= 100). A segunda linha 
+ * contÃ©m N inteiros T1, T2, ..., TN (0 <= Ti <= 20).
  *
- * Saída
+ * SaÃ­da
  * 
- *Imprima uma linha contendo o número da pessoa que Theon deve dizer ser 
- *seu algoz. Se existe mais de uma resposta possível, imprima a menor.
+ *Imprima uma linha contendo o nÃºmero da pessoa que Theon deve dizer ser 
+ *seu algoz. Se existe mais de uma resposta possÃ­vel, imprima a menor.
 */
 
 import java.io.IOException;
